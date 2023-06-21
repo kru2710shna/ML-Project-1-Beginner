@@ -1,6 +1,6 @@
 # ML-Project-1-Beginner
 
-### Hypothesis: We can predict how many medals a country will win in an olympic with 0 MAE. 
+### Hypothesis: Predicting the exact number of medals a country will win in the Olympics with low mean absolute error (MAE)
 
 ## Steps- 
 
