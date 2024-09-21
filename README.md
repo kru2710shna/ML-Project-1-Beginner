@@ -1,4 +1,4 @@
-# ML-Project-1-Beginner
+# Olympic Medal Predictor
 
 ### Hypothesis: Predicting the exact number of medals a country will win in the Olympics with low mean absolute error (MAE)
 
